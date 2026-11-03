@@ -1,0 +1,6 @@
+{
+  "name": "SIAKAD SD & Kiosk Absensi Wajah",
+  "description": "Sistem Informasi Akademik Sekolah Dasar (SIAKAD SD) lengkap dengan Mode Kiosk Absensi Pengenalan Wajah, Rekap Rapor AI Gemini, Bank Soal, dan Manajemen Keuangan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
